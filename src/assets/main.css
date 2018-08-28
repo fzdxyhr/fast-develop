@@ -1,0 +1,9 @@
+.el-dialog__header {
+	padding: 10px 10px 10px!important;
+}
+
+.el-dialog__headerbtn {
+	top: 5px!important;
+    right: 10px!important;
+    font-size: 21px!important;
+}
